@@ -1,3 +1,5 @@
+# discontinued 
+
 Okay, so let me get started. Do not use this as-is. I originally wrote this a few years back, and decided to clean up the code. I have removed lots of methods, and added namespaces. 
 
 I plan on bringing this back, so will edit it the source and fixing parts, do not fork yet unless you're helping with development. Once it's at a good stage of development, then you can fork, but at the moment, it's not functioning fully yet. 
